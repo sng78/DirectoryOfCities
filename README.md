@@ -5,7 +5,7 @@
 - Реализовать несколько вариантов сортировки и поиска данных справочника
 
 ***Используемые технологии:***
-- Java JDK 11, Collections, Lambda Expressions, Git, Github, IntelliJ IDEA, Maven
+- Java, Maven, IntelliJ IDEA, Git
 
 ***Результаты:***
 - Загрузил в модель City данные из файла csv
